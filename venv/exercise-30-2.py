@@ -29,7 +29,9 @@ def calculate_total_salary(**kwargs):
     days_worked = stop_date - start_date
     formatted_days_worked = days_worked.days
     total_salary = formatted_days_worked * daily_salary
-    print(f'wynagrodzenie netto po przepracowaniu {formatted_days_worked} dni przy stawce {daily_salary} wynosi: \n brutto: {total_salary}zł, \n netto: {total_salary - total_salary * vat}zł.')
+    print(f'wynagrodzenie netto po przepracowaniu {formatted_days_worked} dni przy stawce {daily_salary}'
+          f' wynosi: \n brutto: {total_salary}zł, \n netto: {total_salary - total_salary * vat}zł.')
 
 
 calculate_total_salary(st=start, sp=stop, ds=daily_salary)
+
