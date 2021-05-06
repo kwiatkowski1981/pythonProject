@@ -11,4 +11,4 @@ print(result)
 
 with open('even.txt', 'w') as output_file:
     for number in result:
-        output_file.write(f'{number}\n')
+        output_file.write(f'{number}')
