@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "name": "Pystart",
+    "members": [
+        {
+            "id": 1,
+            "first_name": "Jan",
+            "last_name": "Kowalski"
+        },
+        {
+            "id": 2,
+            "first_name": "John",
+            "last_name": "Smith"
+        }
+    ]
+}
