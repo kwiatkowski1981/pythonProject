@@ -1,1 +1,26 @@
-{"id": 1, "name": "Pystart", "members": [{"id": 1, "first_name": "Jan", "last_name": "Kowalski"}, {"id": 2, "first_name": "John", "last_name": "Smith"}, {"id": 3, "first_name": "Jakub", "last_name": "Kwiatkowski"}, {"id": 4, "first_name": "Micha\u0142", "last_name": "Chomiak"}]}
+{
+  "id": 1,
+  "name": "Pystart",
+  "members": [
+    {
+      "id": 1,
+      "first_name": "Jan",
+      "last_name": "Kowalski"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Smith"
+    },
+    {
+      "id": 3,
+      "first_name": "Jakub",
+      "last_name": "Kwiatkowski"
+    },
+    {
+      "id": 4,
+      "first_name": "Micha\u0142",
+      "last_name": "Chomiak"
+    }
+  ]
+}
