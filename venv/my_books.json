@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Franky Furbo",
+      "isbn": "123123123",
+      "pages": 453,
+      "year": 1978,
+      "author": "Czesiu Mozil"
+    },
+        {
+      "id": 2,
+      "title": "Wojna",
+      "isbn": "124124124",
+      "pages": 184,
+      "year": 1995,
+      "author": "Kazik Piekarz"
+    },
+        {
+      "id": 3,
+      "title": "Deszcze niespokojne",
+      "isbn": "125123126",
+      "pages": 722,
+      "year": 1921,
+      "author": "Marian Cebula"
+    },
+        {
+      "id": 4,
+      "title": "Nauka Pythona",
+      "isbn": "111123124",
+      "pages": 645,
+      "year": 2021,
+      "author": "Kuba K"
+    }
+  ]
+}
